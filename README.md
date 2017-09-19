@@ -1,1 +1,2 @@
-# helpful-tips
+# Class Info
+
